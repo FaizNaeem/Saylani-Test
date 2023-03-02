@@ -1,0 +1,141 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.hig{
+    /* background-image: url(./slider-bg-gray.png); */
+    /* height: 100vh; */
+    background-size: cover;
+    width: 100%;
+    flex-wrap: wrap;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 10%;
+    /* top: 20px; */
+}
+
+.navbar-light .navbar-brand{
+/* font-size: 40px; */
+margin-left: 30px;
+}
+.jnm{
+    position: relative;
+    top: 50px;
+}
+.a {
+    /* border: 1px solid black; */
+    margin-right: 40px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: century;
+   position: relative;
+   top: 10px;
+    color: black;
+    text-transform: uppercase;
+    /* padding: 9px 20px; */
+    /* margin-left: 20px; */
+    /* width: 0px; */
+    /* border-radius: 20px 10px 20px 10px; */
+
+    /* background-color: black; */
+    /* color: white; */
+}
+.a {
+    text-decoration: none;
+}
+
+
+
+
+
+.img{
+    width: 30px;
+}
+.logo{
+    width: 150px;
+}
+.hi1{
+    width: 50px;
+    border-radius: 30px;
+    background-color: orangered;
+    padding: 5px;
+    position: relative;
+    bottom: 10px;
+     color: white;
+    /* padding: 10px; */
+}
+.to{
+    position: relative;
+    top: 10%;
+    font-size: 45px;
+}
+.s{
+    color: orangered;
+}
+.h6{
+position: relative;
+top: 10%;
+}
+p{
+    position: relative;
+    top: 10%;
+}
+.left{
+    border: none;
+    height: 450px;
+    border-radius: 20px;
+    position: relative;
+    top: 5px;
+    background-image: url(./wl.jpg.crdownload);
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+.boo{
+ position: relative;
+ top: 10px;
+    text-align: center;
+    color: white;
+}
+.nm{
+    margin-top: 15px;
+}
+.bhn{
+    background-color: #fe8315;
+    color: #fff;
+    padding: 10px 0;
+    width: 100%;
+    margin-top: 10px;
+    border: none;
+    
+}
+
+
+.jh{
+    position: relative;
+    top: 10%;
+}
+.han{
+text-align: center;
+
+}
+.fl{
+    position: relative;
+    top: 50px;
+}
+.gfx{
+    font-weight: bold;
+    text-align: center;
+    font-size: 26px;
+}
+    
+ .topn{
+    width: 100px;
+    margin-left: 50px;
+    padding: 20px 20px ;
+    border: 1px solid gray;
+    border-radius: 10px;
+    
+}
+
